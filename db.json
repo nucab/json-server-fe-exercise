@@ -1,0 +1,26 @@
+{
+  "accounts": [{
+    "id": "1",
+    "username": "",
+    "firstname": "john",
+    "lastname": "doe"
+  }, {
+    "id": "2",
+    "username": "",
+    "firstname": "john",
+    "lastname": "smith"
+  }],
+  "tasks": [{
+    "id": "1",
+    "title": "Cook food",
+    "accountId": "1"
+  }, {
+    "id": "2",
+    "title": "Wash the dishes",
+    "accountId": "2"
+  }, {
+    "id": "3",
+    "title": "Do six push-ups",
+    "accountId": "1"
+  }]
+}
